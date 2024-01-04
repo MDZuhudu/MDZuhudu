@@ -6,7 +6,7 @@ My name is Muhammad Dahiru Usman
 Information Technologist
 ------------------------
 
-I've been learning coding for more than a decade with experience in HTML, JavaScript, CSS, PHP, C++, Java and Python. And am always available for new experience!
+I've been learning coding for more than 5 years with experience in HTML, JavaScript, CSS, PHP, C++, Java and Python. And am always available for new experience!
 
 *   🌍  I'm based in Kano
 *   ✉️  You can contact me at [muhddahiruusman@gmail.com](mailto:muhddahiruusman@gmail.com)
